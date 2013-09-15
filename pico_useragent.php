@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Parse the browser and user agent string
+ * Parse the user agent string of the current visitor and expose an array of values to use in your templates
  *
  * @author James Doyle
  * @link http://github.com/james2doyle/pico_useragent
