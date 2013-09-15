@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Sniff the browser and user agent string
+ * Parse the browser and user agent string
  *
  * @author James Doyle
  * @link http://github.com/james2doyle/pico_useragent
