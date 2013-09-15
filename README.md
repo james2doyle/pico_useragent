@@ -1,7 +1,7 @@
 pico_useragent
 ==============
 
-This plugin allows you to parse the user agent of the current visitor and then expose that information in an easy to use variable in your twig templates.
+A plugin for [Pico CMS](http://pico.dev7studios.com/) that allows you to parse the user agent of the current visitor and then expose that information in an easy to use variable in your twig templates.
 
 Hopefully that makese sense.
 
