@@ -1,0 +1,16 @@
+{
+    "name": "james2doyle/pico_useragent",
+    "type": "library",
+    "description": "Parse the user agent string of the current visitor and expose an array of values to use in your templates.",
+    "keywords": ["picocms", "composer"],
+    "homepage": "https://github.com/james2doyle/pico_useragent",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Doyle",
+            "email": "james2doyle@gmail.com",
+            "homepage": "http://www.ohdoylerules.com",
+            "role": "Developer"
+        }
+    ]
+}
